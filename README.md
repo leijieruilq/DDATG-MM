@@ -19,3 +19,20 @@
 > >2.3 Run it directly from the command line：nohup bash ./scripts/Transformer/algriculture_gnn.sh 0 0 0 > train.log 2>&1 &
 
 > > The log results are in the corresponding train.log file.
+
+## Citation
+
+If you find this repo helpful, please cite our paper. 
+
+```
+@ARTICLE{11230812,
+  author={Lei, Jierui and Zhang, Wenjian and Yang, Qingyi and Zhang, Xudong and Tang, Haina},
+  journal={IEEE Signal Processing Letters}, 
+  title={Transformer-PLM Enhanced Multimodal Time Series Forecasting via Decoupled Dual-Temporal Graph Adaptation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Transformers;Time series analysis;Forecasting;Adaptation models;Semantics;Modeling;Market research;Predictive models;Graph neural networks;Electronic mail;Multimodal Time Series Forecasting;Graph Structure Adaptation;Multimodal Representation Learning},
+  doi={10.1109/LSP.2025.3630087}}
+```
