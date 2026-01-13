@@ -1,4 +1,4 @@
-# (IEEE SPL) Transformer-Enhanced Multimodal Time Series Forecasting via Decoupled Dual-Temporal Graph Adaptation
+# (IEEE SPL 2026) Transformer-Enhanced Multimodal Time Series Forecasting via Decoupled Dual-Temporal Graph Adaptation
 
 ## Introduction
 
