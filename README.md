@@ -35,10 +35,11 @@ If you find this repo helpful, please cite our paper.
   author={Lei, Jierui and Zhang, Wenjian and Yang, Qingyi and Zhang, Xudong and Tang, Haina},
   journal={IEEE Signal Processing Letters}, 
   title={Transformer-PLM Enhanced Multimodal Time Series Forecasting via Decoupled Dual-Temporal Graph Adaptation}, 
-  year={2025},
-  volume={},
+  year={2026},
+  volume={33},
   number={},
-  pages={1-5},
-  keywords={Transformers;Time series analysis;Forecasting;Adaptation models;Semantics;Modeling;Market research;Predictive models;Graph neural networks;Electronic mail;Multimodal Time Series Forecasting;Graph Structure Adaptation;Multimodal Representation Learning},
+  pages={11-15},
+  keywords={Transformers;Time series analysis;Forecasting;Adaptation models;Semantics;Modeling;Market research;Predictive models;Graph neural networks;Electronic mail;Multimodal time series forecasting;graph structure adaptation;multimodal representation learning},
   doi={10.1109/LSP.2025.3630087}}
+
 ```
